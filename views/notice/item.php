@@ -1,0 +1,1 @@
+$.jGrowl('<?=$message?>', { life: <?=$time?> });
